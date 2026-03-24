@@ -1,5 +1,3 @@
-<img width="840" height="234" alt="image" src="https://github.com/user-attachments/assets/f24e94cf-3e83-4625-8767-d80df1d11a29" /># Datatypes-Read and Print a String in Python
-
 ## 🎯 Aim
 To write a Python program to read a string from the user and then print it.
 
